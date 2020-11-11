@@ -1,4 +1,4 @@
-R and Stata Workshop Series
+R Workshop (2020)
 ==
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 
@@ -15,7 +15,7 @@ This is a public repository with tutorials in different aspects of programming i
 _Last updated 05-07-2019_
 
 #### R Workshops
-- [Introduction and Data Management Using R](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Introduction%20and%20Data%20Management%20Using%20R)
+- [Introduction and Data Management Using R (before 2019)](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Introduction%20and%20Data%20Management%20Using%20R)
 - [Basic Data Visualization Using R](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Basic%20Data%20Visualization%20Using%20R)
 - [Basic Network Analysis Using R](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Basic%20Network%20Analysis%20Using%20R)
 - [Advanced Network Analysis Using R](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Advanced%20Network%20Analysis%20Using%20R)
